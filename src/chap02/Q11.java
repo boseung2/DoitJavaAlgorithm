@@ -13,8 +13,4 @@ public class Q11 {
 		}
 	}
 	
-	static int ymdAfter(int n) {
-		
-	}
-	
 }
